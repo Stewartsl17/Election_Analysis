@@ -17,7 +17,7 @@ After finalizing that task for Tom, he then wanted us to add the additional coun
 
 ## Resources 
 * Data Sources: [Election_results.csv](https://github.com/Stewartsl17/Election_Analysis/blob/master/Resources/election_results.csv)
-* Software: Python 3.8.5, Visual Studiio Code, 1.47.3
+* Software: Python 3.8.5, Visual Studio Code, 1.47.3
 
 ## Election - Audit Results 
 
