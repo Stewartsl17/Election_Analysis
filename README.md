@@ -22,7 +22,7 @@ After finalizing that task for Tom, he then wanted us to add the additional coun
 ## Election - Audit Results 
 
 ### Candidate Summary 
-The [analysis](https://github.com/Stewartsl17/Election_Analysis/blob/master/Elections_Results.png) of the elections shows that: 
+The [analysis](https://github.com/Stewartsl17/Election_Analysis/blob/master/Analysis/election_results.txt) of the elections shows that: 
 * There were 369,711 votes cast in the election. 
 * The candidates were: 
   * Charles Casper Stockam
