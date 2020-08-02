@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview 
-Tom, a Colorado Board of Elections employee, has tasked us with completing the election audit of a recent local congressional election.  
+Tom, a Colorado Board of Elections employee, has tasked us with completing the election audit of a recent local congressional election. In order to replicate this process for future elections, our client wanted us to write script in Python. The steps of the script are as follows: 
 
 1. Open the data file.
 2. Write down the names of all the candidates.
