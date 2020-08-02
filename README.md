@@ -22,7 +22,7 @@ After finalizing that task for Tom, he then wanted us to add the additional coun
 ## Election - Audit Results 
 
 ### Candidate Summary 
-The analysis of the elections shows that: 
+The ![analysis](https://github.com/Stewartsl17/Election_Analysis/blob/master/Elections_Results.png) of the elections shows that: 
 * There were 369,711 votes cast in the election. 
 * The candidates were: 
   * Charles Casper Stockam
@@ -34,7 +34,7 @@ The analysis of the elections shows that:
   * Raymond Anthony Doane recieved 3.1% of the vote and 11,606 votes 
 * The winner of the election was: <br>
    * __Diana DeGette, who recieved 73.8% of the vote and 272,892 votes__
-
+ 
 ### County Summary 
 * The counties for this election were:
   * Jefferson County
