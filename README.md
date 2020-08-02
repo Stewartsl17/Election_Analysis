@@ -25,7 +25,7 @@ The analysis of the elections shows that:
   * Diana DeGette recieved 73.8% of the vote and 272,892 votes 
   * Raymond Anthony Doane recieved 3.1% of the vote and 11,606 votes 
  * The winner of the election was: 
-  * Diana DeGette, who recieved 73.8% of the vote and 272,892 votes
+  * __Diana DeGette, who recieved 73.8% of the vote and 272,892 votes__
  
  ## Challenge Overview 
  
